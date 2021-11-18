@@ -3,11 +3,11 @@
   <title>Frank</title>
   
   <subtitle>lan</subtitle>
-  <link href="http://purple-lan.github.io/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
   
-  <link href="http://purple-lan.github.io/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2021-11-18T08:02:26.707Z</updated>
-  <id>http://purple-lan.github.io/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>Frank</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://purple-lan.github.io/2021/11/18/hello-world/"/>
-    <id>http://purple-lan.github.io/2021/11/18/hello-world/</id>
+    <link href="http://yoursite.com/2021/11/18/hello-world/"/>
+    <id>http://yoursite.com/2021/11/18/hello-world/</id>
     <published>2021-11-18T05:43:16.463Z</published>
     <updated>2021-11-18T08:02:26.707Z</updated>
     
