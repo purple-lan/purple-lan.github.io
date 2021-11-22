@@ -636,10 +636,10 @@ body::before {
   position: fixed;
   height: 100vh;
   z-index: -1;
-  background-color: rgba(0,0,0,0.1);
+  background-color: rgba(0,0,0,0.6);
 }
 .nightmode body::before {
-  background-color: rgba(0,0,0,0.6);
+  background-color: rgba(0,0,0,0.1);
 }
 .container {
   white-space: normal;
